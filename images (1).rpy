@@ -1,0 +1,42 @@
+image black = "#000"
+
+image cg1= MaxScale("cg/cg1.png")
+image cg2= MaxScale("cg/cg2.png")
+image cg2= MaxScale("cg/cg2_2.png")
+image cg3= MaxScale("cg/cg3.png")
+image cg4= MaxScale("cg/cg4.png")
+image cg5= MaxScale("cg/cg5.png")
+image cg6= MaxScale("cg/cg6.png")
+image cg7= MaxScale("cg/cg7.png")
+image cg8= MaxScale("cg/cg8.png")
+image cg9= MaxScale("cg/cg9.png")
+image cg10= MaxScale("cg/cg10.png")
+image cg12= MaxScale("cg/cg12.png")
+image cg13= MaxScale("cg/cg13.png")
+image cg14= MaxScale("cg/cg14.png")
+image cg15= MaxScale("cg/cg15.png")
+image cg16= MaxScale("cg/cg16.png")
+image cg17= MaxScale("cg/cg17.png")
+image cg18= MaxScale("cg/cg18.png")
+image cg19= MaxScale("cg/cg19.png")
+image cg20= MaxScale("cg/cg20.png")
+image cg21= MaxScale("cg/cg21.png")
+image cg22= MaxScale("cg/cg22.png")
+image cg23= MaxScale("cg/cg23.png")
+
+
+
+
+
+image lockedthumb= MinScale("cg/bloqueio.png", maxthumbx, maxthumby)
+image thumb1= MinScale("cg/subcomum.png", maxthumbx, maxthumby)
+image thumb2= MinScale("cg/subproprio.png", maxthumbx, maxthumby)
+image thumb3= MinScale("cg/sujeitos.png", maxthumbx, maxthumby)
+image thumb4= MinScale("cg/verbo.png", maxthumbx, maxthumby)
+image thumb5= MinScale("cg/tempo.png", maxthumbx, maxthumby)
+image thumb5_1=MinScale("cg/reuniao.png", maxthumbx, maxthumby)
+image thumb6= MinScale("cg/puzzle.png", maxthumbx, maxthumby)
+image thumb7= MinScale("cg/adjetivo.png", maxthumbx, maxthumby)
+image thumb8= MinScale("cg/bloqueio.png", maxthumbx, maxthumby)
+image thumb9= MinScale("cg/bloqueio.png", maxthumbx, maxthumby)
+image thumb10= MinScale("cg/bloqueio.png", maxthumbx, maxthumby)
